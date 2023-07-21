@@ -1,0 +1,1 @@
+(6*F*l*sin(phi)**2 + 4*F*l - 6*b*dphi*sin(phi) - 6*c*ds*l*sin(phi)**2 - 4*c*ds*l + 2*dphi**2*l**2*m*cos(phi) + 3*g*l*m*sin(phi)**2)/(l*(6*M*sin(phi)**2 + 4*M + 3*m*sin(phi)**2 + 4*m))
